@@ -1,0 +1,3 @@
+﻿Tennis is a ball and racquet game that is scored in an interesting way. Instead of scoring the game using consecutive integers to denote number of points won by the players, it uses the scoring 0, 15, 30, 40, and A.
+
+There are also special rules on how to score a game in tennis. A player must score at least four points in total and two more than their opponent to win. When the points are four, and the scores are equal, then the score is 'deuce' (40:40). When the points are four or more, and a player has one point more than their opponent, then the score is 'advantage' (A:40).
