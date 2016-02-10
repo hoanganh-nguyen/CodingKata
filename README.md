@@ -1,0 +1,2 @@
+# CodingKata
+.NET Kata projects
