@@ -58,6 +58,7 @@
     <Compile Include="Number\PrimeCheckerTests.cs" />
     <Compile Include="Number\Worker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scheduling\ShowSchedulerTest.cs" />
     <Compile Include="String\AnagramCheckerTests.cs" />
     <Compile Include="String\AnagramSolverTests.cs" />
     <Compile Include="String\Bola.cs" />

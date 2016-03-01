@@ -45,6 +45,7 @@
     <Compile Include="Number\PrimeChecker.cs" />
     <Compile Include="Number\Worker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scheduling\ShowScheduler.cs" />
     <Compile Include="String\AnagramSolver.cs" />
     <Compile Include="String\DuplicateRemover.cs" />
     <Compile Include="String\Palindrome.cs" />
