@@ -50,11 +50,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Number\AmstrongNumberTest.cs" />
+    <Compile Include="Number\Average.cs" />
+    <Compile Include="Number\FactorialCalculatorTest.cs" />
     <Compile Include="Number\FibonacciSeriesTest.cs" />
+    <Compile Include="Number\NumberWorkTest.cs" />
     <Compile Include="Number\PrimeCheckerTests.cs" />
+    <Compile Include="Number\Worker.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="String\AnagramCheckerTests.cs" />
     <Compile Include="String\AnagramSolverTests.cs" />
+    <Compile Include="String\Bola.cs" />
+    <Compile Include="String\Bolo.cs" />
+    <Compile Include="String\DuplicateRemoverTest.cs" />
+    <Compile Include="String\PalindromeTest.cs" />
+    <Compile Include="String\StringReverserTest.cs" />
+    <Compile Include="String\WordCounterTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
