@@ -11,7 +11,6 @@ namespace AlgoKatas.String
 
         public int CountWord(string input)
         {
-            var ret = 0;
             input = input.Trim();
             //Replace many space by only one
             string cleanedString = System.Text.RegularExpressions.Regex.Replace(input, @"\s+", " ");
